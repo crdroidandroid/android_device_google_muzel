@@ -679,6 +679,8 @@ overlay/SystemUIGoogle__blazer__auto_generated_rro_vendor.apk
 overlay/TeleService__blazer__auto_generated_rro_vendor.apk
 overlay/Traceur__blazer__auto_generated_rro_vendor.apk
 overlay/framework-res__blazer__auto_generated_rro_vendor.apk
+overlay/CrossDeviceAccessServicePrimary__blazer__auto_generated_rro_vendor.apk
+overlay/NfcOverlayBlazerGsi.apk
 
 # beta
 overlay/DMService__blazer_beta__auto_generated_rro_vendor.apk
