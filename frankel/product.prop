@@ -3,3 +3,7 @@ bluetooth.device_id.product_id=16663
 
 # Quick start
 ro.quick_start.device_id=frankel
+
+# Force AICore Persistent Mode
+persist.device_config.aicore.is_persistent_mode_enabled=true
+persist.device_config.aicore.persistent_mode=true

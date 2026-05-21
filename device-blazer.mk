@@ -52,6 +52,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.recovery.muzel.touch.rc
 
+# AICore
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/conf/aicore_sysconfig.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/aicore_sysconfig.xml
+
 # Satellite
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/conf/allowlist_satellite.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/allowlist_satellite.xml \

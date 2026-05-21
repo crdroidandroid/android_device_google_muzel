@@ -5,3 +5,7 @@ persist.vendor.audio.leaudio_sw_offload=true
 
 # Quick start
 ro.quick_start.device_id=blazer
+
+# Force AICore Persistent Mode
+persist.device_config.aicore.is_persistent_mode_enabled=true
+persist.device_config.aicore.persistent_mode=true
